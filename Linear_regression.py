@@ -1,7 +1,3 @@
-# Jeronimo Martinez Barragan
-# CSC 362
-# Assignment 4
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
